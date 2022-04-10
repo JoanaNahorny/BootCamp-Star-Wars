@@ -1,0 +1,17 @@
+products:
+  - id: 1
+    name: "HanSolo"
+    strength: 50
+    version: 1
+  - id: 2
+      name: "Luke Skywalker"
+      strength: 50
+      version: 2
+  - id: 3
+      name: "Yoda"
+      strength: 500
+      version: 3
+  - id: 4
+      name: "Princess Leia"
+      strength: 400
+      version: 4
